@@ -2,6 +2,10 @@ package tarea_ed_ut05;
 /**
  * @author luisc
  */
+
+/**
+ * Aquí vamos a introducir un comentario en JavaDoc que debería aparecer en GitHub
+ */
 public class CCuenta {
 
 
